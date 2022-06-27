@@ -1,2 +1,2 @@
-# FreeCodeCamp-LRWD-Prj2-Survey-Form
-This is a survey form and  the second project I did in the the legacy responsive web design course offered by freecodecamp.org 
+# FreeCodeCamp-Legacy Responsive Web Design Projects
+This is repo contains my code for the FCC's  legacy responsive web design projects. I began my commit from the second to the fifth(last) project.
